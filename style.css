@@ -1,0 +1,52 @@
+body{
+  background-color: rgb(225, 225, 225);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+#receita-container{
+  width: 1050px;
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 60px;
+  padding-bottom: 5px;
+  border-radius: 10px;
+}
+
+#receita-container .cropped1{
+  border-radius: 10px;
+  width: 976px; 
+  height: 300px; 
+  object-fit: cover;
+}
+
+#receita-container h1, h2{
+  text-align: center;
+}
+
+#receita-container figcaption{
+  text-align: right;
+  color: silver;
+  font-size: 12px;
+}
+
+li{
+  margin: 20px auto;
+  color: rgb(106, 106, 106);
+}
+
+section{
+  text-align: left;
+  margin: 20px;
+}
+
+footer{
+  text-align: center;
+  color: rgb(141, 141, 141);
+  margin-top: 40px;
+  margin-bottom: 20px;
+  font-size: 11px;
+}
+
+ 
